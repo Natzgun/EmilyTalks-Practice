@@ -1,0 +1,7 @@
+{
+  "/api/conversation/converse/stream/route": "app/api/conversation/converse/stream/route.js",
+  "/api/conversation/prepare-agent/route": "app/api/conversation/prepare-agent/route.js",
+  "/api/speech/synthesize/route": "app/api/speech/synthesize/route.js",
+  "/api/speech/transcribe/route": "app/api/speech/transcribe/route.js",
+  "/chat/page": "app/chat/page.js"
+}
